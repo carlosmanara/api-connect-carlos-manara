@@ -73,4 +73,4 @@ npm run dev
 
 ## Autor
 
-Carlos Souza
+Carlos Alberto Manara
